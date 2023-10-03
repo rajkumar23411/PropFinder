@@ -1,0 +1,22 @@
+.popularTag {
+    position: relative;
+    z-index: 10;
+}
+.popularTag span {
+    background: rgb(37, 99, 235);
+    color: #ffffff;
+    padding: 0.2rem 1.1rem;
+    font-size: 0.9rem;
+    border-radius: 4px 4px 4px 0;
+    font-weight: 600;
+}
+.popularTag::before {
+    content: "";
+    position: absolute;
+    height: 14px;
+    width: 8px;
+    background-color: rgb(30, 64, 175);
+    bottom: -0.5rem;
+    z-index: -1;
+    border-bottom-left-radius: 4px;
+}
