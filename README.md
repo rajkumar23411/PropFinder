@@ -93,11 +93,10 @@ Prerequisites are listed below, install in order to run the project successfully
       yarn start
       ```
 
-
 ## 🤝 Contact
 
 Author Info - [@rajkumar]([https://linkedin.com/in/manikangkandas](https://www.linkedin.com/in/rajkumar-kalita-9a854a270/)) - rajkumar.kalita@yahoo.com
 <br />
-Project Link - [https://github.com/rajkumar23411/chatbot](https://github.com/rajkumar23411/chatbot)
+Project Link - [https://github.com/rajkumar23411/PropFinder](https://github.com/rajkumar23411/PropFinder)
 
 <p align="right"><a href="#top">back to top</a></p>
