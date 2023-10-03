@@ -1,35 +1,28 @@
-# CarDekho - Car Search and Pagination App
+# PropFinder - Property Finder Web App
 
 ## 🤔Overview
-  This project is a simple React-based web application designed for searching and displaying details of cars. The car information is sourced from a **cars.json** file, providing users with an intuitive interface   to explore different vehicles.
+  PropFinder is a cutting-edge real estate search platform dedicated to simplifying property exploration journey. It is built with *react.js* The property informations is sourced from **data.json** file. PropFinder is designed to deliver a seamless and personalized property search experience.
 
 ## 😶‍🌫️ Screenshots
 
-*Page - 1 (Home page)*
-![Page-1 (default)](https://github.com/rajkumar23411/CarDekho/assets/90103892/9d16e648-d246-40b5-98d2-49574f5b1b4c)
+*Page - 1 (Home page where default city is london)*
+![Page-1](https://github.com/rajkumar23411/PropFinder/assets/90103892/0a45e4f4-481f-45a1-9220-26d3b5073467)
 
-*Page - 5 (using pagination)*
-![Different page using pagination](https://github.com/rajkumar23411/CarDekho/assets/90103892/7e8cea1b-e9d7-4464-b2f4-8cfa24bb662e)
+*More properties after clicking the Show more button*
+![image](https://github.com/rajkumar23411/PropFinder/assets/90103892/f8e34373-8591-4213-9e41-3e49b21ecba1)
 
-*Search result (keyword = ford)*
-![Search result for ford](https://github.com/rajkumar23411/CarDekho/assets/90103892/47954a40-7ca0-4a9d-a972-0b53811afc20)
+*City is equal to Paris*
+![image](https://github.com/rajkumar23411/PropFinder/assets/90103892/968345ca-f96a-440e-9e5e-e716e9bdde86)
 
-*No search result*
-![No search result](https://github.com/rajkumar23411/CarDekho/assets/90103892/8d17dde1-1962-483b-b23f-af1e36d25d8b)
+*Page - 2 (Single Property)*
+![image](https://github.com/rajkumar23411/PropFinder/assets/90103892/1bb51954-7e47-4aa6-9b79-e353b4ee8371)
 
-## Demo
+*View All*
+![image](https://github.com/rajkumar23411/PropFinder/assets/90103892/c341a06c-33a1-4567-b75d-17b5d76c9d92)
+
+## 🐤 Demo
  - [Get a demo](https://github.com/rajkumar23411/PropFinder/assets/90103892/35602c30-4975-414f-afe0-fdf07dcab1c6)
 
-## 🐤 Key Features
-
-1. **Search Functionality:**
-   Users can search for specific cars based on various criteria, facilitating quick and efficient data retrieval.
-
-2. **Pagination:**
-   To enhance user experience, the application includes a pagination feature. This allows users to navigate through the list of cars in a structured and organized manner.
-
-3. **Data Source:**
-   The application fetches details about each car from a `cars.json` file. This structured JSON file ensures easy maintenance and updates.
 
 ## 🏗️ Built With
 - [Vite](https://vitejs.dev/guide/)
@@ -71,7 +64,7 @@ Prerequisites are listed below, install in order to run the project successfully
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/rajkumar23411/CarDekho.git
+   git clone https://github.com/rajkumar23411/PropFinder.git
    ```
 
 2. Navigate to dir
